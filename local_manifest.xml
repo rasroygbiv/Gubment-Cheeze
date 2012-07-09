@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="CyanogenMod/android_device_samsung_msm8660-common" path="device/samsung/msm8660-common" />
+  <project name="CyanogenMod/android_device_samsung_quincyatt" path="device/samsung/quincyatt" />
+  <project name="CyanogenMod/android_device_samsung_quincy-common" path="device/samsung/quincy-common" />
+  <project name="CyanogenMod/android_packages_apps_SamsungServiceMode" path="packages/apps/SamsungServiceMode" />
+</manifest>
